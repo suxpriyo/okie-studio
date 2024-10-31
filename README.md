@@ -45,6 +45,3 @@ To deploy this project run
 ```bash
   npm start
 ```
-
-#
-# okie-studio
